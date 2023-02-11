@@ -1,4 +1,4 @@
-# 🐍 Hi, I’m @OtoyaLee
+# 🐍 Hi, I’m @OtoyaLee，from 🇨🇳
 
 ![](https://img.shields.io/badge/python-3.10-blue?style=for-the—badge&logo=python&logoColor=green)
 
